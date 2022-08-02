@@ -11,3 +11,6 @@ Beep-boop Example and CRUD operation with local storage
 
 - CRUD opration using default-preference
 - Navigation example using typescript
+
+# License
+Copyright (c) 2022 shivani-sisodiya
