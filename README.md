@@ -1,4 +1,4 @@
-# typescript-beep-localstorage
+# typescript-beep boop-localstorage
 Beep-boop Example and CRUD operation with local storage
 
 # Description
